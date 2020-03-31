@@ -1,0 +1,62 @@
+{
+    "hackage-nix": {
+        "branch": "master",
+        "description": "Automatically generated Nix expressions for Hackage",
+        "homepage": "",
+        "owner": "input-output-hk",
+        "repo": "hackage.nix",
+        "rev": "827d9e9c41bcb06416b8d4ea20150b9bfd48c345",
+        "sha256": "194ad52biik46jg35cy9z689i3ahyw44y9pxyavzp53dp32hrms5",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/hackage.nix/archive/827d9e9c41bcb06416b8d4ea20150b9bfd48c345.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "haskell-nix": {
+        "branch": "master",
+        "description": "Alternative Haskell Infrastructure for Nixpkgs",
+        "homepage": "https://input-output-hk.github.io/haskell.nix",
+        "owner": "input-output-hk",
+        "repo": "haskell.nix",
+        "rev": "eb15db0450f7f70723934d9f5366b2d33be35b46",
+        "sha256": "1zw5v3ndaw87vivh280pr9j98xcclb4211llm9xx5wrgwggl8yc5",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/haskell.nix/archive/eb15db0450f7f70723934d9f5366b2d33be35b46.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "2ecfd86b631714b457e56d70dd83fa60435baeb6",
+        "sha256": "01j6727cws8blg1npp54b4w6xa0gpgyzhyws2vqgp8clnlnmqqhi",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/2ecfd86b631714b457e56d70dd83fa60435baeb6.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixos-unstable",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs-channels",
+        "rev": "ae6bdcc53584aaf20211ce1814bea97ece08a248",
+        "sha256": "0hjhznns1cxgl3hww2d5si6vhy36pnm53hms9h338v6r633dcy77",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs-channels/archive/ae6bdcc53584aaf20211ce1814bea97ece08a248.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "stackage-nix": {
+        "branch": "master",
+        "description": "Automatically generated Nix expressions of Stackage snapshots",
+        "homepage": "",
+        "owner": "input-output-hk",
+        "repo": "stackage.nix",
+        "rev": "8d144df57cebfe734007dfe5e4eba627a9e66e25",
+        "sha256": "1y13kkqd9z1j97l6q81rgx4mz9njbq806q6f5kxi3i2wfg1xc1s3",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/stackage.nix/archive/8d144df57cebfe734007dfe5e4eba627a9e66e25.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}

@@ -1,0 +1,9 @@
+.stack-work/
+*~
+dist*/
+result
+result-*
+/.pre-commit-config.yaml
+
+# stack.yaml provides sufficient pinning the way we use it. This lock file doesn't seem to be worth the hassle.
+/stack.yaml.lock
